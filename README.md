@@ -3,9 +3,10 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a third year computer s!!
+## I'm a third year computer science student!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I love to create UI/UX designs.
+- 🔭 I love to create UI/UX designs
+- 💻 I love coding my designs
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on open source
 - 😄 I am interested in ML and AI
@@ -13,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/abigael-kirwa-40647219b/]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/abigael-kirwa-40647219b/
 
 <br />
 
