@@ -4,7 +4,7 @@
 
 
 ## I'm a third year computer science student!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here 
 - 🔭 I love to create UI/UX designs
 - 💻 I love coding my designs
 - 🌱 I’m currently learning Azure
