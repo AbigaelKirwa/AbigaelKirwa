@@ -10,12 +10,12 @@
 - 👯 I’m looking to collaborate on open source
 - 😄 I am interested in ML and AI
 - ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, German)
--  <a href="portfolio-abigaelkirwa.vercel.app">Visit my website</a>
+- 🤓 [Visit my website]
 
 
 ### Talk with me, I am kinda awesome:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
-abigael.kirwa@strathmore.edu
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin] <br />
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> abigael.kirwa@strathmore.edu
 
 <br />
 
@@ -50,3 +50,4 @@ abigael.kirwa@strathmore.edu
 
 [linkedin]: https://www.linkedin.com/in/abigael-kirwa-40647219b/
 [portfolio]: https://github.com/AbigaelKirwa
+[Visit my website]: https://portfolio-abigaelkirwa.vercel.app
