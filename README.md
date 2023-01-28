@@ -4,17 +4,18 @@
 
 
 ## I'm a third year computer science student!!
-- ✍ You can find my projects here 
 - 🔭 I love to create UI/UX designs
-- 💻 I love coding my designs
-- 🌱 I’m currently learning Azure
+- 💻 I am a full-stack developer
+- 🌱 I am certified in Azure fundamentals
 - 👯 I’m looking to collaborate on open source
 - 😄 I am interested in ML and AI
 - ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, German)
+-  <a href="portfolio-abigaelkirwa.vercel.app">Visit my website</a>
 
 
 ### Talk with me, I am kinda awesome:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+abigael.kirwa@strathmore.edu
 
 <br />
 
