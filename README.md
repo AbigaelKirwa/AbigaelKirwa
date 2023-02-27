@@ -13,7 +13,7 @@
 - 🤓 [Visit my website]
 
 
-### Talk with me, I am kinda awesome:
+### Talk to me, I am kinda awesome:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
 <br/><br/>
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> abigael.kirwa@strathmore.edu
