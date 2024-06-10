@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a third year computer science student!!
+## I'm a Devloper and designer
 - 🔭 I love to create UI/UX designs
 - 💻 I am a full-stack developer
 - 🌱 I am certified in Azure fundamentals
