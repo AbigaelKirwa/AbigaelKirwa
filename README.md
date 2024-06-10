@@ -3,17 +3,17 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Devloper and designer
+## I am a Developer and designer
 - 🔭 I love to create UI/UX designs
 - 💻 I am a full-stack developer
 - 🌱 I am certified in Azure fundamentals
 - 👯 I’m looking to collaborate on open source
 - 😄 I am interested in ML and AI
-- ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, German)
+- ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, German:beginner)
 - 🤓 [Visit my website]
 
 
-### Talk to me, I am kinda awesome:
+### Talk to me:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
 <br/><br/>
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> abigael.kirwa@strathmore.edu
